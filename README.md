@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TLivius
 - 👀 I’m interested in Python/Java.
-- 🌱 I’m currently learning Computer Science at RO University Politehnica of Bucharest ETTI.
+- 🌱 I’m currently learning Computer Science / Networking at RO University Politehnica of Bucharest ETTI.
 - 💞️ I’m looking to collaborate on Python/Java projects.
 - 📫 How to reach me: ianculesculiviu@yahoo.com
 
